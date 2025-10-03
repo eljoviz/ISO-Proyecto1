@@ -1,2 +1,2 @@
 # Conceptos
-[Conceptosh](img/concepto.jpg)
+![Conceptosh](img/concepto.jpg)
